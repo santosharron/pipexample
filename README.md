@@ -7,8 +7,6 @@ The PiP window appears in the topmost layer of the screen, in a corner chosen by
 
 [![Preview](https://i.imgur.com/FIj2AWK.jpg)](https://youtu.be/JnvO-gRAm6E)
 
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
